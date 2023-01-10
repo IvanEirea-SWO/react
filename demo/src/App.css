@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
